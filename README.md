@@ -1,1 +1,1 @@
-A C# adjacency list implementation of the graph ADT from scratch using HashTable for mapping vertices to neighbors stored in Vectors
+A C# adjacency list implementation of the graph ADT using HashTable 
